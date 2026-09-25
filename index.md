@@ -20,7 +20,7 @@
 ### Category Name 2
 
 - [Food Deserts in Oklahoma City](https://storymaps.arcgis.com/stories/c741d9e055a3467c9cfd0ec0c5fbef89.)
-- [Bus Stops and Grocery Store Access]("pdf/Public Transportation and Access to Grocery Stores in.pdf")
+- [Bus Stops and Grocery Store Access]("Public Transportation and Access to Grocery Stores in.pdf")
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
