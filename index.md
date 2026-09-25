@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projects
 
 [Food Deserts in Oklahoma City](/sample_page)
 <img src= "images/Screenshot 2026-09-25 at 10-15-07 Food Deserts in Oklahoma City.png"/>
