@@ -8,7 +8,7 @@
 <img src= "images/Screenshot 2026-09-25 at 10-15-07 Food Deserts in Oklahoma City.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Bus Stops and Grocery Store Access](/pdf/Public Transportation and Access to Grocery Stores in.pdf/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
