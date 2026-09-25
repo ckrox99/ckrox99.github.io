@@ -8,8 +8,8 @@
 <img src= "images/Screenshot 2026-09-25 at 10-15-07 Food Deserts in Oklahoma City.png"/>
 
 ---
-[Bus Stops and Grocery Store Access](/pdf/Public Transportation and Access to Grocery Stores in.pdf/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Bus Stops and Grocery Store Access]
+<img src="images/BRTSponsorship1-3020573784.png"/>
 
 ---
 [Project 3 Title](http://example.com/)
