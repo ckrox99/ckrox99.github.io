@@ -4,7 +4,7 @@
 
 ### Projects
 
-[Food Deserts in Oklahoma City](/(https://arcg.is/1am5L81))
+[Food Deserts in Oklahoma City](https://arcg.is/1am5L81)
 <img src= "images/Screenshot 2026-09-25 at 10-15-07 Food Deserts in Oklahoma City.png"/>
 
 ---
