@@ -15,20 +15,6 @@
 [Cleveland County Dasymetric Map - Population Density]("images/Screenshot 2026-10-08 160255.png")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Food Deserts in Oklahoma City]("https://arcg.is/1am5L81")
-- [Bus Stops and Grocery Store Access]("Public Transportation and Access to Grocery Stores in.pdf")
-- [Cleveland County Dasymetric Map - Population Density]("images/Screenshot 2026-10-08 160255.png")
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
