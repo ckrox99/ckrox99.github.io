@@ -12,7 +12,7 @@
 <img src="images/BRTSponsorship1-3020573784.png"/>
 
 ---
-[Cleveland County Dasymetric Map - Population Density]("Screenshot 2026-10-08 160255.png")
+[Cleveland County Dasymetric Map - Population Density]("images/Screenshot 2026-10-08 160255.png")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
