@@ -13,7 +13,7 @@
 
 ---
 [Cleveland County Dasymetric Map - Population Density]("images/Screenshot 2026-10-08 160255.png")
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Screenshot 2026-10-08 160255.png"/>
 
 
 ---
