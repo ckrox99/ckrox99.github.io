@@ -21,7 +21,7 @@
 
 - [Food Deserts in Oklahoma City]((https://arcg.is/1am5L81))
 - [Bus Stops and Grocery Store Access]("Public Transportation and Access to Grocery Stores in.pdf")
-- [Project 3 Title](http://example.com/)
+- [Cleveland County Dasymetric Map - Population Density]("images/Screenshot 2026-10-08 160255.png")
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
 
