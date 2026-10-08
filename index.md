@@ -12,8 +12,8 @@
 <img src="images/BRTSponsorship1-3020573784.png"/>
 
 ---
-[Cleveland County Dasymetric Map - Population Density](https://storymaps.arcgis.com/briefings/d93e32b7b87040d6839cc389dd188e10)
-<img src="images/Screenshot 2026-10-08 160255.png"/>
+[Embark OKC Bus Stops](https://storymaps.arcgis.com/briefings/d93e32b7b87040d6839cc389dd188e10)
+<img src="images/systemmapimage-3424282570.png"/>
 
 
 ---
