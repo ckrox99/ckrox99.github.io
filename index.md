@@ -12,7 +12,7 @@
 <img src="images/BRTSponsorship1-3020573784.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Cleveland County Dasymetric Map - Population Density]("Screenshot 2026-10-08 160255.png")
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
