@@ -15,6 +15,9 @@
 [Embark OKC Bus Stops](https://storymaps.arcgis.com/briefings/d93e32b7b87040d6839cc389dd188e10)
 <img src="images/systemmapimage-3424282570.png"/>
 
+---
+[Split Panel](https://booming-skill-484917-c5.projects.earthengine.app/view/split-panel)
+<img src="images/systemmapimage-3424282570.png"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
