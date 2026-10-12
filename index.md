@@ -17,7 +17,7 @@
 
 ---
 [Split Panel](https://booming-skill-484917-c5.projects.earthengine.app/view/split-panel)
-<img src="images/systemmapimage-3424282570.png"/>
+<img src="images/Screenshot 2026-10-12 151459.png"/>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
